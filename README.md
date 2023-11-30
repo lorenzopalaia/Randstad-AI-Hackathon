@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lorenzopalaia/randstad-AI-hackathon">
+  <a href="https://github.com/lorenzopalaia/Randstad-AI-Hackathon">
     <img src="repo_assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -94,7 +94,7 @@ The code in the project utilizes one-hot encoding for training labels, applies t
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/lorenzopalaia/randstad-AI-hackathon.git
+   git clone https://github.com/lorenzopalaia/Randstad-AI-Hackathon.git
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -146,7 +146,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Lorenzo Palaia <!-- - [@twitter_handle](https://twitter.com/twitter_handle)--> - lorenzopalaia53@gmail.com
 
-Project Link: [https://github.com/lorenzopalaia/randstad-AI-hackathon](https://github.com/lorenzopalaia/randstad-AI-hackathon)
+Project Link: [https://github.com/lorenzopalaia/Randstad-AI-Hackathon](https://github.com/lorenzopalaia/Randstad-AI-Hackathon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,16 +164,16 @@ Project Link: [https://github.com/lorenzopalaia/randstad-AI-hackathon](https://g
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/lorenzopalaia/randstad-AI-hackathon.svg?style=for-the-badge
-[contributors-url]: https://github.com/lorenzopalaia/randstad-AI-hackathon/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/lorenzopalaia/randstad-AI-hackathon.svg?style=for-the-badge
-[forks-url]: https://github.com/lorenzopalaia/randstad-AI-hackathon/network/members
-[stars-shield]: https://img.shields.io/github/stars/lorenzopalaia/randstad-AI-hackathon.svg?style=for-the-badge
-[stars-url]: https://github.com/lorenzopalaia/randstad-AI-hackathon/stargazers
-[issues-shield]: https://img.shields.io/github/issues/lorenzopalaia/randstad-AI-hackathon.svg?style=for-the-badge
-[issues-url]: https://github.com/lorenzopalaia/randstad-AI-hackathon/issues
-[license-shield]: https://img.shields.io/github/license/lorenzopalaia/randstad-AI-hackathon.svg?style=for-the-badge
-[license-url]: https://github.com/lorenzopalaia/randstad-AI-hackathon/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/lorenzopalaia/Randstad-AI-Hackathon.svg?style=for-the-badge
+[contributors-url]: https://github.com/lorenzopalaia/Randstad-AI-Hackathon/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/lorenzopalaia/Randstad-AI-Hackathon.svg?style=for-the-badge
+[forks-url]: https://github.com/lorenzopalaia/Randstad-AI-Hackathon/network/members
+[stars-shield]: https://img.shields.io/github/stars/lorenzopalaia/Randstad-AI-Hackathon.svg?style=for-the-badge
+[stars-url]: https://github.com/lorenzopalaia/Randstad-AI-Hackathon/stargazers
+[issues-shield]: https://img.shields.io/github/issues/lorenzopalaia/Randstad-AI-Hackathon.svg?style=for-the-badge
+[issues-url]: https://github.com/lorenzopalaia/Randstad-AI-Hackathon/issues
+[license-shield]: https://img.shields.io/github/license/lorenzopalaia/Randstad-AI-Hackathon.svg?style=for-the-badge
+[license-url]: https://github.com/lorenzopalaia/Randstad-AI-Hackathon/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lorenzopalaia
 [product-preview]: repo_assets/preview.png
